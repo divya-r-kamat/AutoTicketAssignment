@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+	
+	
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			<!--Machine Learning App with Flask-->
+		</div>
+		<h2 class='logo'>Automated Ticket Assignment Application</h2>
+		
+	</div>
+	</header>
+<style>
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+</style>
+
+	<div class = "img">
+    	
+    	<img src="{{url_for('static', filename='itsm.png')}}" />
+    	<!--img src="{{ url_for('static', filename='itsm.png') }}" />-->
+    </div>
+
+	<div class="ml-container">
+
+		<form action="{{ url_for('predict')}}" method="POST">
+    		<p><b> Enter Your Issue here</b></p>
+    		<!-- <input type="text" name="comment"/> -->
+    		<textarea name="message" rows="4" cols="200"></textarea>
+    		<br/>
+    
+    		<input type="submit" class="btn-info" value="Submit">
+		
+	</form>
+		
+	</div>
+</body>
+</html>
