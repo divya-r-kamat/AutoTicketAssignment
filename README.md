@@ -1,4 +1,4 @@
-Ticket Classification Capstone Project using NLP
+Auto Ticket Assignment Application built as part of Capstone Project using NLP
 
 <b> Project Overview</b>:
 
