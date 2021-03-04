@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/divya-r-kamat/AutoTicketAssignment.svg)](http://hits.dwyl.io/divya-r-kamat/AutoTicketAssignment)
+
 Auto Ticket Assignment Application built as part of Capstone Project using NLP
 
 <b> Project Overview</b>:
