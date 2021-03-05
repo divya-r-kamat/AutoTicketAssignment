@@ -2,7 +2,7 @@
 
 # Auto Ticket Assignment Application built as part of Capstone Project using NLP
 
-<b> Project Overview</b>:
+## Project Overview:
 
 One of the key activities of any IT function is to “Keep the lights on” to ensure there is no
 impact to the Business operations. IT leverages the Incident Management process to achieve the
@@ -21,7 +21,7 @@ In this capstone project, using a powerful AI / ML technique we will build a cla
 by analysing text in the incidents and classify incidents to right functional groups can help
 organizations to reduce the resolving time of the issue and can focus on more productive tasks.
 
-<b>Problem Statement</b>:
+## Problem Statement:
 In most of the IT organizations, the assignment of incidents to appropriate IT groups is still a
 manual process. Manual assignment of incidents is time consuming and requires human efforts.
 There may be mistakes due to human errors and resource consumption is carried out ineffectively
@@ -29,7 +29,7 @@ because of the misaddressing. On the other hand, manual assignment increases the
 resolution times which result in user satisfaction deterioration / poor customer service.
 
 
-<b>Solution </b>:
+## Solution:
 This capstone project intends to reduce the manual intervention of IT operations or Service
 desk teams by automating the ticket assignment process .
 The goal here is to create a text classification based ML model that can automatically
