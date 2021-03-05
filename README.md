@@ -1,5 +1,6 @@
 [![HitCount](http://hits.dwyl.com/divya-r-kamat/https://githubcom/divya-r-kamat/AutoTicketAssignment.svg)](http://hits.dwyl.com/divya-r-kamat/https://githubcom/divya-r-kamat/AutoTicketAssignment)
-Auto Ticket Assignment Application built as part of Capstone Project using NLP
+
+# Auto Ticket Assignment Application built as part of Capstone Project using NLP
 
 <b> Project Overview</b>:
 
